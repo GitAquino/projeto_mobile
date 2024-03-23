@@ -1,5 +1,5 @@
 import React from 'react';
-import AppNavigator from './AppNavigator';
+import AppNavigator from './src/config/AppNavigator';
 
 function App() {
     return <AppNavigator />;
